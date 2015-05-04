@@ -71,11 +71,9 @@ a {
   .page-header {
     padding: 2rem 1rem; } }
 
-.page-navigation {
-}
+.page-navigation + .show-menu {
 
-.show-menu {
-/*Style 'show menu' label button and hide it by default*/
+	/*Style 'show menu' label button and hide it by default*/
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	text-decoration: none;
 	color: #fff;
@@ -174,7 +172,7 @@ a {
 	}
 	
 	/*Display 'show menu' link*/
-	.page-navigation.show-menu {
+	.page-navigation + .show-menu {
 		display:block;
 	}
 }
