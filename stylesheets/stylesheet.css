@@ -89,6 +89,91 @@ a {
 	margin-right: 1px;
 }
 
+/*change this for nav bar colors*/
+/*Style for menu links*/
+.page-navigation li a {
+	display:block;
+	min-width:140px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #fff;
+	background: #2f3036;
+	text-decoration: none;
+}
+
+/*Hover state for top level links*/
+.page-navigation li:hover a {
+	background: #19c589;
+}
+
+/*Style for dropdown links*/
+.page-navigation li:hover ul a {
+	background: #f3f3f3;
+	color: #2f3036;
+	height: 40px;
+	line-height: 40px;
+}
+
+/*Hover state for dropdown links*/
+.page-navigation li:hover ul a:hover {
+	background: #19c589;
+	color: #fff;
+}
+/* end change this*/
+
+/*Hide dropdown links until they are needed*/
+.page-navigation li ul {
+	display: none;
+}
+
+/*Make dropdown links vertical*/
+.page-navigation li ul li {
+	display: block;
+	float: none;
+}
+
+/*Prevent text wrapping*/
+.page-navigation li ul li a {
+	width: auto;
+	min-width: 100px;
+	padding: 0 20px;
+}
+
+/*Display the dropdown on hover*/
+.page-navigation ul li a:hover + .hidden, .hidden:hover {
+	display: block;
+}
+
+/*Responsive Styles*/
+@media screen and (max-width : 760px){
+	/*Make dropdown links appear inline*/
+	.page-navigation ul {
+		position: static;
+		display: none;
+	}
+	/*Create vertical spacing*/
+	.page-navigation li {
+		margin-bottom: 1px;
+	}
+	/*Make all menu links full width*/
+	.page-navigation ul li, li a {
+		width: 100%;
+	}
+}
+
+/*Style 'show menu' label button and hide it by default*/
+.show-menu {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-decoration: none;
+	color: #fff;
+	background: #19c589;
+	text-align: center;
+	padding: 10px 0;
+	display: none;
+}
+
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem; }
