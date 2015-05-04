@@ -11,11 +11,20 @@
   </head>
   <body>
     <section class="page-header">
-      	<ul class="page-navigation">
-      		<li class="page-navigation"><a href="#" >Home</a></li>
-      		<li class="page-navigation">
+      	<label for="page-navigaition.show-menu" class="page-navigaition.show-menu">Show Menu</label>
+      	<input type="checkbox" id="show-menu" role="button">
+      		<ul id="menu">
+      		<li><a href="#">Home</a></li>
+      		<li>
+      			<a href="#">About ￬</a>
+      			<ul class="hidden">
+      				<li><a href="#">Who We Are</a></li>
+      				<li><a href="#">What We Do</a></li>
+      			</ul>
+      		</li>
+      		<li>
       			<a href="#">Portfolio ￬</a>
-      			<ul class="page-navigation.hidden">
+      			<ul class="hidden">
       				<li><a href="#">Photography</a></li>
       				<li><a href="#">Web & User Interface Design</a></li>
       				<li><a href="#">Illustration</a></li>
