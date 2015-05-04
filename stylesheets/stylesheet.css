@@ -71,6 +71,23 @@ a {
   .page-header {
     padding: 2rem 1rem; } }
 
+.page-navigation {
+  /*Strip the ul of padding and list styling*/
+  ul {
+  	list-style-type:none;
+  	margin:0;
+  	padding:0;
+  	position: absolute;
+  }
+  
+  /*Create a horizontal list with spacing*/
+  li {
+  	display:inline-block;
+  	float: left;
+  	margin-right: 1px;
+  }
+}
+
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem; }
