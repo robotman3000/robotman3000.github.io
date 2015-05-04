@@ -72,20 +72,21 @@ a {
     padding: 2rem 1rem; } }
 
 .page-navigation {
-  /*Strip the ul of padding and list styling*/
-  ul {
-  	list-style-type:none;
-  	margin:0;
-  	padding:0;
-  	position: absolute;
-  }
-  
-  /*Create a horizontal list with spacing*/
-  li {
-  	display:inline-block;
-  	float: left;
-  	margin-right: 1px;
-  }
+}
+
+/*Strip the ul of padding and list styling*/
+.page-navigation ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	position: absolute;
+}
+
+/*Create a horizontal list with spacing*/
+.page-navigation li {
+	display:inline-block;
+	float: left;
+	margin-right: 1px;
 }
 
 .project-name {
