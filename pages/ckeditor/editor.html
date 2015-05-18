@@ -16,6 +16,13 @@
                     // Replace the <textarea id="editor1"> with a CKEditor
                     // instance, using default configuration.
                     CKEDITOR.config.contentsCss = ['/stylesheets/stylesheet.css', '/stylesheets/normalize.css', '/stylesheets/github-light.css'];
+                    CKEDITOR.on( 'save', function( ev ) {
+                        print("Save Button Clicked!!");
+                    });
+                    
+                    CKEDITOR.on( 'instanceReady', function( ev ) {
+                        //CKEDITOR.instances.e1.document.$.body.className = "foo";
+                    });
                     CKEDITOR.replace( 'editor1' );
                 </script>
             </form>
