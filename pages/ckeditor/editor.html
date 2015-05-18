@@ -14,39 +14,37 @@
         <title>A Simple Page with CKEditor</title>
         <!-- Make sure the path to CKEditor is correct. -->
         <script src="ckeditor.js"></script>
-        <script>
-            // Replace the <textarea id="editor1"> with a CKEditor
-            // instance, using default configuration.
-            CKEDITOR.config.contentsCss = ['/stylesheets/stylesheet.css', '/stylesheets/normalize.css', '/stylesheets/github-light.css', 'http://fonts.googleapis.com/css?family=Open+Sans:400,700'];
-            CKEDITOR.on( 'save', function( ev ) {
-                print("Save Button Clicked!!");
-            });
-            
-            CKEDITOR.on( 'instanceReady', function( ev ) {
-                //CKEDITOR.instances.e1.document.$.body.className = "foo";
-            });
-            //CKEDITOR.replace( 'editor1' );
-            // Turn off automatic editor creation first.
-            CKEDITOR.disableAutoInline = true;
-            CKEDITOR.inline( 'editor1' );
-        </script>
     </head>
-    <body>
-        <textarea id="editor1" contenteditable="true">
-            <header class="page-header">
-                <h1 class="project-name">Project/Page Name</h1>
-                <h2 class="project-tagline">Project/Page Tagline</h2>
-            </header>
+    <body id="editor1" contenteditable="true">
+        <header class="page-header">
+            <h1 class="project-name">Project/Page Name</h1>
+            <h2 class="project-tagline">Project/Page Tagline</h2>
+        </header>
+        
+        <main class="main-content">
+            <p>
+                The page content here
+            </p>
+        </main>
+        
+        <footer class="site-footer">
             
-            <main class="main-content">
-                <p>
-                    The page content here
-                </p>
-            </main>
-            
-            <footer class="site-footer">
-                
-            </footer>
-        </textarea>
+        </footer>
     </body>
+    <script>    // Replace the <textarea id="editor1"> with a CKEditor
+        // instance, using default configuration.
+        CKEDITOR.config.contentsCss = ['/stylesheets/stylesheet.css', '/stylesheets/normalize.css', '/stylesheets/github-light.css', 'http://fonts.googleapis.com/css?family=Open+Sans:400,700'];
+        CKEDITOR.on( 'save', function( ev ) {
+            print("Save Button Clicked!!");
+        });
+        
+        CKEDITOR.on( 'instanceReady', function( ev ) {
+            //CKEDITOR.instances.e1.document.$.body.className = "foo";
+        });
+        //CKEDITOR.replace( 'editor1' );
+        // Turn off automatic editor creation first.
+        CKEDITOR.disableAutoInline = true;
+        CKEDITOR.inline( 'editor1' );
+    
+    </script>
 </html>
