@@ -44,6 +44,7 @@
         CKEDITOR.on( 'instanceReady', function( ev ) {
             //CKEDITOR.instances.e1.document.$.body.className = "foo";
         });
+        CKEDITOR.config.extraPlugins = 'stylesheetparser';
         //CKEDITOR.replace( 'editor1' );
         // Turn off automatic editor creation first.
         CKEDITOR.disableAutoInline = true;
