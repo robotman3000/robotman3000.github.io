@@ -15,21 +15,24 @@
         <!-- Make sure the path to CKEditor is correct. -->
         <script src="ckeditor.js"></script>
     </head>
-    <body id="editor1" contenteditable="true">
-        <header class="page-header">
-            <h1 class="project-name">Project/Page Name</h1>
-            <h2 class="project-tagline">Project/Page Tagline</h2>
-        </header>
-        
-        <main class="main-content">
-            <p>
-                The page content here
-            </p>
-        </main>
-        
-        <footer class="site-footer">
+    <body>
+        <p>The editor content</p>
+        <div id="editor1" contenteditable="true">
+            <header class="page-header">
+                <h1 class="project-name">Project/Page Name</h1>
+                <h2 class="project-tagline">Project/Page Tagline</h2>
+            </header>
             
-        </footer>
+            <main class="main-content">
+                <p>
+                    The page content here
+                </p>
+            </main>
+            
+            <footer class="site-footer">
+                
+            </footer>
+        </div>
     </body>
     <script>    // Replace the <textarea id="editor1"> with a CKEditor
         // instance, using default configuration.
