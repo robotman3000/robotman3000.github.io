@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <int_gameTitle>CRYSTALIEN CONFLICT: OFFLINE REDUX EDITION</int_gameTitle>
+  <int_disableEvil>FALSE</int_disableEvil>
+  <int_disableEvilSpecial>FALSE</int_disableEvilSpecial>
+  <int_snipe>ALIEN LEVELS SOON!</int_snipe>
+
+  <int_gameWin>CONGRATULATIONS!&lt;BR&gt;</int_gameWin>
+  <int_gameLose>FAILURE IS NOT AN OPTION&lt;BR&gt;&lt;BR&gt;MAKE THINGS EASIER WITH THIS CHEATCODE:&lt;BR&gt;"newbie"</int_gameLose>
+  <int_gameCompleteSaveScore>FALSE</int_gameCompleteSaveScore>
+  <int_gameComplete1>YOU ARE VICTORIOUS!</int_gameComplete1>
+  <int_gameComplete2>IF YOU WERE LOGGED IN AT WWW.LEGO.COM YOU COULD SUBMIT YOUR SCORE.</int_gameComplete2>
+  <int_gameComplete3>YOUR SCORE HAS BEEN SAVED TO WWW.LEGO.COM</int_gameComplete3>
+  <int_gameComplete4>SCORES CANNOT BE SAVED WITH CHEATS ENABLED.  RESET CHEATMODE USING CODE: 1337</int_gameComplete4>
+
+  <int_levelLose>YOU HAVE BEEN CONQUERED</int_levelLose>
+
+  <int_button_skipmovie>SKIP MOVIE</int_button_skipmovie>
+  <int_button_resume>RESUME GAME</int_button_resume>
+  <int_button_quit>QUIT GAME</int_button_quit>
+  <int_button_restart>RESTART LEVEL</int_button_restart>
+  <int_button_splash>PLAY AGAIN</int_button_splash>
+
+  <int_button_good_start>START STORY</int_button_good_start>
+  <int_button_good_continue>CONTINUE STORY</int_button_good_continue>
+  <int_button_good_conflict>CONFLICT MODE</int_button_good_conflict>
+  <int_button_good_special>SPECIAL OPS</int_button_good_special>
+  <int_button_evil_start>START STORY</int_button_evil_start>
+  <int_button_evil_continue>CONTINUE STORY</int_button_evil_continue>
+  <int_button_evil_conflict>CONFLICT MODE</int_button_evil_conflict>
+  <int_button_evil_special>SPECIAL OPS</int_button_evil_special>
+
+  <int_good_locked_conflict>LOCKED:&lt;BR&gt;COMPLETE ALL 9 ASTRO STORY LEVELS</int_good_locked_conflict>
+  <int_good_locked_special>LOCKED:&lt;BR&gt;COMPLETE THE ASTRO TRAINING LEVELS</int_good_locked_special>
+  <int_evil_locked_conflict>LOCKED:&lt;BR&gt;COMPLETE ALL 9 ALIEN STORY LEVELS</int_evil_locked_conflict>
+  <int_evil_locked_special>LOCKED:&lt;BR&gt;FIND THE ACCESS CODE</int_evil_locked_special>
+
+  <int_button_hiscore>HIGH SCORES</int_button_hiscore>
+  <int_button_hidescores>CLOSE</int_button_hidescores>
+  <int_hiscore_title>CONFLICT MODE HIGH SCORE TABLE</int_hiscore_title>
+  <int_hiscore_rank>RANK</int_hiscore_rank>
+  <int_hiscore_username>PLAYER NAME</int_hiscore_username>
+  <int_hiscore_score>SCORE</int_hiscore_score>
+
+  <int_code_prompt>ACCESS CODE:</int_code_prompt>
+  <int_code_valid>ACCESS GRANTED</int_code_valid>
+  <int_code_invalid>ACCESS DENIED</int_code_invalid>
+  <int_code_cheatFullscreen>Fullscreen!</int_code_cheatFullscreen>
+  <int_code_cheatCashup>50,000 CREDITS!</int_code_cheatCashup>
+  <int_code_cheatBuildspeed>BUILD FASTER!</int_code_cheatBuildspeed>
+  <int_code_cheatFirepower>RAPID FIRE!</int_code_cheatFirepower>
+  <int_code_cheatShields>TRIPLE ARMOR!</int_code_cheatShields>
+  <int_code_cheatShroud>SHROUD REMOVED!</int_code_cheatShroud>
+  <int_code_cheatAll>POWERED UP!</int_code_cheatAll>
+  <int_code_cheatReset>CHEATS RESET!</int_code_cheatReset>
+
+  <int_deselect>TO DESELECT PRESS SPACE, MIDDLE MOUSE OR DOUBLE CLICK</int_deselect>
+  <int_buildingsite_deselect>TO CANCEL BUILDING PRESS SPACE OR MIDDLE MOUSE</int_buildingsite_deselect>
+  <int_construction_hint>click the icon, wait for it to build, then place it in your base</int_construction_hint>
+  <int_construction_complete>DEPLOY</int_construction_complete>
+  <int_construction_progress>% COMPLETE</int_construction_progress>
+  <int_construction_insufficient>AWAITING FUNDS</int_construction_insufficient>
+  <int_construction_max>MAX BUILT</int_construction_max>
+
+  <int_power_low>Low power - construction slowed</int_power_low>
+  <int_power_off>Insufficient power - guns offline</int_power_off>
+  <int_power_on>Full power restored</int_power_on>
+
+  <int_BA_good_title>Eagle Command Base</int_BA_good_title>
+  <int_BB_good_title>Power Plant</int_BB_good_title>
+  <int_BC_good_title>Training Camp</int_BC_good_title>
+  <int_BD_good_title>Defence Station</int_BD_good_title>
+  <int_BE_good_title>Vehicle Factory</int_BE_good_title>
+  <int_BF_good_title>Radar Station</int_BF_good_title>
+  <int_BG_good_title>Technology Centre</int_BG_good_title>
+  <int_BH_good_title>Satellite Uplink</int_BH_good_title>
+  <int_BI_good_title>Soccer Pitch</int_BI_good_title>
+  <int_BK_good_title>MX-81 Ops Ship</int_BK_good_title>
+  <int_BL_good_title>MT-201 Driller</int_BL_good_title>
+  <int_BX_good_title>Rocket</int_BX_good_title>
+
+  <int_UA_good_title>Infantry</int_UA_good_title>
+  <int_UB_good_title>Engineer</int_UB_good_title>
+  <int_UC_good_title>JetPack Explorer</int_UC_good_title>
+  <int_UD_good_title>Crystal Miner</int_UD_good_title>
+  <int_UE_good_title>Trike</int_UE_good_title>
+  <int_UF_good_title>ClawTank Ambush</int_UF_good_title>
+  <int_UG_good_title>Astro Fighter</int_UG_good_title>
+  <int_UH_good_title>Recon Dropship</int_UH_good_title>
+  <int_UJ_good_title>Pizza Delivery</int_UJ_good_title>
+  <int_UK_good_title>EM Pulse Cannon</int_UK_good_title>
+  <int_UP_good_title>Switch Fighter</int_UP_good_title>
+  <int_UR_good_title>Crystal Reaper</int_UR_good_title>
+
+  <int_BA_evil_title>Alien Mothership</int_BA_evil_title>
+  <int_BB_evil_title>Energy Generator</int_BB_evil_title>
+  <int_BC_evil_title>Breeding Pit</int_BC_evil_title>
+  <int_BD_evil_title>Assault Turret</int_BD_evil_title>
+  <int_BE_evil_title>Battle Foundry</int_BE_evil_title>
+  <int_BF_evil_title>Sonar Station</int_BF_evil_title>
+  <int_BG_evil_title>Experiment Lab</int_BG_evil_title>
+  <int_BH_evil_title>Orbital Uplink</int_BH_evil_title>
+  <int_BJ_evil_title>Santa's Sleigh</int_BJ_evil_title>
+  <int_BK_evil_title>Alien Hive</int_BK_evil_title>
+
+  <int_UA_evil_title>Drone</int_UA_evil_title>
+  <int_UB_evil_title>Saboteur</int_UB_evil_title>
+  <int_UC_evil_title>Viper Attack</int_UC_evil_title>
+  <int_UD_evil_title>Crystal Extractor</int_UD_evil_title>
+  <int_UE_evil_title>Speeder</int_UE_evil_title>
+  <int_UF_evil_title>Dragon Cruiser</int_UF_evil_title>
+  <int_UG_evil_title>Strike Fighter</int_UG_evil_title>
+  <int_UH_evil_title>Hyper Carrier</int_UH_evil_title>
+  <int_UK_evil_title>4T2 Ion Disrupter</int_UK_evil_title>
+  <int_UP_evil_title>Alien Infiltrator</int_UP_evil_title>
+  <int_UQ_evil_title>Commander</int_UQ_evil_title>
+
+  <int_level1_start>level 1:&lt;BR&gt;'MINING THE RED PLANET'</int_level1_start>
+  <int_level1_ind1>click on the miner</int_level1_ind1>
+  <int_level1_ind2>move miner</int_level1_ind2>
+  <int_level1_ind3>mine some crystals</int_level1_ind3>
+  <int_level1_ind4>the miner will automatically collect targetted crystals</int_level1_ind4>
+  <int_level1_ind5>when it is full the miner will return to base</int_level1_ind5>
+  <int_level1_ind6>you can deselect the miner by pressing space, double clicking or pressing the middle mouse button</int_level1_ind6>
+  <int_level1_ind7>you can move around the map using cursor keys (or putting the mouse at the edge of the window)</int_level1_ind7>
+  <int_level1_complete>MINE DEEPER, GO FURTHER</int_level1_complete>
+
+  <int_level2_start>level 2:&lt;BR&gt;'WE ARE NOT ALONE...'</int_level2_start>
+  <int_level2_ind1>drag and select all 4 astros</int_level2_ind1>
+  <int_level2_ind2>groups are a useful way to move many units at once</int_level2_ind2>
+  <int_level2_ind3>move your infantry around</int_level2_ind3>
+  <int_level2_ind4>reveal the martian terrain around your base</int_level2_ind4>
+  <int_level2_ind5>ASTRONAUTS VS. ALIENS</int_level2_ind5>
+  <int_level2_complete>The crystal energy conflict begins...</int_level2_complete>
+
+  <int_level3_start>level 3:&lt;BR&gt;'build and repair'</int_level3_start>
+  <int_level3_ind1>rescue the miner</int_level3_ind1>
+  <int_level3_ind2>move the miner to safety</int_level3_ind2>
+  <int_level3_ind3>build a power plant</int_level3_ind3>
+  <int_level3_ind4>build a training camp</int_level3_ind4>
+  <int_level3_ind5>train an engineer</int_level3_ind5>
+  <int_level3_ind6>control the engineer</int_level3_ind6>
+  <int_level3_ind7>fix the miner</int_level3_ind7>
+  <int_level3_ind8>DEFEND THE MISSION</int_level3_ind8>
+  <int_level3_complete>MARS SPACE CAMP</int_level3_complete>
+
+  <int_level4_start>level 4:&lt;BR&gt;'MARS EXPLORERS'</int_level4_start>
+  <int_level4_ind1>pilot the trike</int_level4_ind1>
+  <int_level4_ind2>retrieve the alien capsule</int_level4_ind2>
+  <int_level4_ind3>ambush! quick, retreat ...</int_level4_ind3>
+  <int_level4_ind4>use the radar to dominate mars&lt;BR&gt;(press 'H' to quick jump to your base)</int_level4_ind4>
+  <int_level4_complete>RED IS MY FAVOURITE COLOR</int_level4_complete>
+
+  <int_level5_start>level 5:&lt;BR&gt;'PIRATES OF THE SKY'</int_level5_start>
+  <int_level5_complete>astro heroes</int_level5_complete>
+
+  <int_level6_start>level 6:&lt;BR&gt;'ASTRO SQUADRON'</int_level6_start>
+  <int_level6_ind1>WARNING - ALIEN BASE!&lt;BR&gt;INCOMING VIPER ATTACK!</int_level6_ind1>
+  <int_level6_ind2>defend your base and destroy the alien breeding pit</int_level6_ind2>
+  <int_level6_complete>CONQUERORS OF THE SKY</int_level6_complete>
+
+  <int_level7_start>level 7:&lt;BR&gt;'CLAWTANK AMBUSH'</int_level7_start>
+  <int_level7_complete>MARS DOMINATION</int_level7_complete>
+
+  <int_level8_start>level 8:&lt;BR&gt;'GROUND CONTROL, WE HAVE A PROBLEM'</int_level8_start>
+  <int_level8_ind1>YOUR CARGO HAS BEEN SCATTERED AROUND THE CRASH SITE</int_level8_ind1>
+  <int_level8_ind2>LEGEND SPEAKS OF AN ABANDONED BASE IN THESE PARTS...</int_level8_ind2>
+  <int_level8_ind3>USE YOUR ENGINEERS WISELY</int_level8_ind3>
+  <int_level8_complete>COMMAND AND CAPTURE</int_level8_complete>
+
+  <int_level9_start>level 9:&lt;BR&gt;'STEAL ALIEN TECHNOLOGY'</int_level9_start>
+  <int_level9_ind1>Use the recon drop ship to transport the engineer</int_level9_ind1>
+  <int_level9_ind2>Select the engineer</int_level9_ind2>
+  <int_level9_ind3>Board the dropship</int_level9_ind3>
+  <int_level9_ind4>To unload the dropship, select it and click on it again</int_level9_ind4>
+  <int_level9_ind5>Get the engineer safely inside the Alien Experiment Lab</int_level9_ind5>
+  <int_level9_complete>SEEK AND CAPTURE</int_level9_complete>
+
+  <int_level10_start>'CRYSTALIEN CONFLICT: ASTRONAUTS'</int_level10_start>
+  <int_level10_ind1>The Alien Mothership has been located</int_level10_ind1>
+  <int_level10_ind2>A remote defence station has been constructed</int_level10_ind2>
+  <int_level10_ind3>Build up your army and FIGHT THE ALIEN UNKNOWN</int_level10_ind3>
+  <int_level10_complete>BOLDLY GO WHERE NO BRICK HAS GONE BEFORE</int_level10_complete>
+
+  <int_level11_start>level 1:&lt;BR&gt;'CLOSE ENCOUNTERS'</int_level11_start>
+  <int_level11_ind1>Astronauts ... on Mars!</int_level11_ind1>
+  <int_level11_ind2>Click on the Drone</int_level11_ind2>
+  <int_level11_ind3>Move Drone</int_level11_ind3>
+  <int_level11_ind4>Sneak up to the Rocket</int_level11_ind4>
+  <int_level11_ind5>you can move around the map using cursor keys (or putting the mouse at the edge of the window)</int_level11_ind5>
+  <int_level11_ind6>Stay out of sight and investigate that crate</int_level11_ind6>
+  <int_level11_complete>OOPS!</int_level11_complete>
+
+  <int_level12_start>level 2:&lt;BR&gt;'CLEANUP'</int_level12_start>
+  <int_level12_ind1>ASTROS ARE STEALING OUR ENERGY CRYSTALS</int_level12_ind1>
+  <int_level12_ind2>drag and select all 3 drones</int_level12_ind2>
+  <int_level12_ind3>groups are a useful way to move many units at once</int_level12_ind3>
+  <int_level12_ind4>move your drones around</int_level12_ind4>
+  <int_level12_ind5>reveal the martian terrain and strike the astros</int_level12_ind5>
+  <int_level12_ind6>Use skill to defeat the Astros' greater numbers</int_level12_ind6>
+  <int_level12_complete>DEFENDERS OF MARS</int_level12_complete>
+
+  <int_level13_start>level 3:&lt;BR&gt;'REINFORCEMENTS'</int_level13_start>
+  <int_level13_ind1>The mothership has landed.  We need to increase our forces.</int_level13_ind1>
+  <int_level13_ind2>build an energy generator</int_level13_ind2>
+  <int_level13_ind3>extract crystals to build an army</int_level13_ind3>
+  <int_level13_ind4>click on the extracter</int_level13_ind4>
+  <int_level13_ind5>move extracter</int_level13_ind5>
+  <int_level13_ind6>extract some crystals</int_level13_ind6>
+  <int_level13_ind7>the extracter will automatically collect targeted crystals</int_level13_ind7>
+  <int_level13_ind8>when it is full the extracter will return to the mothership</int_level13_ind8>
+  <int_level13_ind9>defend the extracter from Astro assault</int_level13_ind9>
+  <int_level13_complete>DEFEND THE ENERGY CRYSTAL</int_level13_complete>
+
+  <int_level14_start>level 4:&lt;BR&gt;'OUTNUMBERED'</int_level14_start>
+  <int_level14_ind1>pilot the speeder</int_level14_ind1>
+  <int_level14_ind2>retreat!</int_level14_ind2>
+  <int_level14_ind3>quick, build some defences before the astros attack</int_level14_ind3>
+  <int_level14_ind4>build a breeding pit</int_level14_ind4>
+  <int_level14_ind5>train a drone</int_level14_ind5>
+  <int_level14_ind6>build an assault turret</int_level14_ind6>
+  <int_level14_ind7>defend your base and defend against all astros</int_level14_ind7>
+  <int_level14_complete>WAR ON THE RED PLANET</int_level14_complete>
+
+  <int_level15_start>level 5:&lt;BR&gt;'ONE ALIEN ARMY'</int_level15_start>
+  <int_level15_ind1>train a Saboteur</int_level15_ind1>
+  <int_level15_ind2>control the Saboteur</int_level15_ind2>
+  <int_level15_ind3>fix the speeder</int_level15_ind3>
+  <int_level15_ind4>when needed, train more Saboteurs to make repairs</int_level15_ind4>
+  <int_level15_complete>ALIENS FIGHT BACK</int_level15_complete>
+
+  <int_level16_start>level 6:&lt;BR&gt;'JETPACKS AT 8 O'CLOCK'</int_level16_start>
+  <int_level16_ind1>use the sonar map to spot invading jetpacks and counter attack with your Strike Fighters</int_level16_ind1>
+  <int_level16_complete>ALIEN STRIKE</int_level16_complete>
+
+  <int_level17_start>level 7:&lt;BR&gt;'DEFEND THE MOTHERSHIP'</int_level17_start>
+  <int_level17_complete>TIME FOR SOME PAYBACK</int_level17_complete>
+
+  <int_level18_start>level 8:&lt;BR&gt;'ONSLAUGHT'</int_level18_start>
+  <int_level18_complete>ALIENS WITH A VENGEANCE</int_level18_complete>
+
+  <int_level19_start>level 9:&lt;BR&gt;'D-DAY'</int_level19_start>
+  <int_level19_ind1>use the hyper carrier to transport your troops ...</int_level19_ind1>
+  <int_level19_ind2>... break through the astro defenses ...</int_level19_ind2>
+  <int_level19_ind3>... and infiltrate the Astro satellite uplink!</int_level19_ind3>
+  <int_level19_ind4>infiltrate the Astro satellite uplink</int_level19_ind4>
+  <int_level19_complete>ALIEN DOMINATION</int_level19_complete>
+
+  <int_level20_start>'CRYSTALIEN CONFLICT: ALIENS'</int_level20_start>
+  <int_level20_ind1>The Eagle Command Base has been discovered</int_level20_ind1>
+  <int_level20_ind2>A strategic assault turret has been assembled</int_level20_ind2>
+  <int_level20_ind3>Amass your forces and defeat the Astronaut threat</int_level20_ind3>
+  <int_level20_complete>THE REVENGE OF THE GREEN GUYS</int_level20_complete>
+
+  <int_level21_start>Astro Bonus 1:&lt;BR&gt;'PIZZA SPECIAL'</int_level21_start>
+  <int_level21_ind1>Pizza sure is expensive on Mars!</int_level21_ind1>
+  <int_level21_ind2>Pizza delivered ... but where is it?</int_level21_ind2>
+  <int_level21_complete>PIZZA FOR EVERYONE</int_level21_complete>
+
+  <int_level22_start>Astro Bonus 2:&lt;BR&gt;'SOCCER MATCH'</int_level22_start>
+  <int_level22_ind1>Build a soccer pitch!</int_level22_ind1>
+  <int_level22_ind2>Here come the players!</int_level22_ind2>
+  <int_level22_complete>KICK OFF!</int_level22_complete>
+
+  <int_level23_start>Astro Bonus 3:&lt;BR&gt;'LIVE CONCERT'</int_level23_start>
+  <int_level23_ind1>Build and power 4 satellite uplinks before the concert starts!</int_level23_ind1>
+  <int_level23_complete>LET THE CONCERT BEGIN!!</int_level23_complete>
+
+  <int_level24_start>Astro Bonus 4:&lt;BR&gt;'LOST'</int_level24_start>
+  <int_level24_ind1>Get your trike out of this maze ...</int_level24_ind1>
+  <int_level24_complete>SO LONG AND THANKS FOR ALL THE FISH</int_level24_complete>
+
+  <int_level26_start>Alien Bonus 1:&lt;BR&gt;'RELIC'</int_level26_start>
+  <int_level26_ind1>Awaken the ancient ...</int_level26_ind1>
+  <int_level26_complete>Great wisdom is bestowed upon you!</int_level26_complete>
+
+  <int_level27_start>Alien Bonus 2:&lt;BR&gt;'J'ADOUBE'</int_level27_start>
+  <int_level27_ind1>Protect your extractor and capture the Astro miner ...</int_level27_ind1>
+  <int_level27_complete>CHECKMATE</int_level27_complete>
+
+  <int_level28_start>Alien Special Ops:&lt;BR&gt;'COMMANDER'</int_level28_start>
+  <int_level28_ind1>I'm all out of bubble gum!</int_level28_ind1>
+  <int_level28_complete>YIPPIE-KAI-YAY!</int_level28_complete>
+
+  <int_level29_start>'N,SW,S,NE,NW,SE'</int_level29_start>
+  <int_level29_ind1>Collect all 7 presents and protect Santa from the inhabitants of Mars!</int_level29_ind1>
+  <int_level29_ind2>Now Santa can deliver the presents to all the good children!</int_level29_ind2>
+  <int_level29_complete>Santa is coming to you!</int_level29_complete>
+
+  <int_level31_start>Astro Special Ops 1:&lt;BR&gt;'DRILLER'</int_level31_start>
+  <int_level31_ind1>The cargo has been scattered - collect the crates for money</int_level31_ind1>
+  <int_level31_ind2>Use the new Switch Fighter, piloted by Astronaut Hill</int_level31_ind2>
+  <int_level31_ind3>Keep an eye out for Alien Infiltrators</int_level31_ind3>
+  <int_level31_ind4>Collect enough crates to build the MT-201 Driller on top of the crystals!</int_level31_ind4>
+  <int_level31_complete>Mine like we've never mined before!</int_level31_complete>
+
+  <int_level32_start>Astro Special Ops 2:&lt;BR&gt;'JACK ATTACK'</int_level32_start>
+  <int_level32_ind1>The Alien Hive is attacking!</int_level32_ind1>
+  <int_level32_ind2>Defend the MT-201 Driller while it mines the energy crystals</int_level32_ind2>
+  <int_level32_ind3>Send your Crystal Reapers west and ...</int_level32_ind3>
+  <int_level32_ind4>... escort an Engineer safely to the driller before it is destroyed!</int_level32_ind4>
+  <int_level32_complete>It's time to call in re-inforcements!</int_level32_complete>
+
+  <int_level33_start>Astro Special Ops 3:&lt;BR&gt;'GREEN'</int_level33_start>
+  <int_level33_ind1>Commander Galaxy to the rescue ...</int_level33_ind1>
+  <int_level33_ind2>... Defeat the aliens and rescue all the astronauts!</int_level33_ind2>
+  <int_level33_complete>The hive is destroyed!  Where is the Alien Commander?</int_level33_complete>
+
+</root>
