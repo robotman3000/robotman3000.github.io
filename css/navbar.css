@@ -1,0 +1,31 @@
+/* Navigation
+--------------------------------------------------------------------------------*/
+
+.site-navigation-container {
+  border-top: 4px solid grey;
+  border-bottom: 4px solid grey;
+}
+
+.site-navigation {
+  background-color: lightgrey;
+  overflow: auto;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+
+.site-navigation a {
+  text-align: center;
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.site-navigation a:hover {
+  background-color: #FFFFFF;	
+}
+
+.selected {
+  background-color: #EEEEEE;
+}
